@@ -59,8 +59,8 @@ body * {
 }
 
 .avatar {
-  width: 112px;
-  height: 112px;
+  width: 130px;
+  height: 130px;
   border-radius: 50%;
   overflow: hidden; /* corta o excesso da imagem */
 }
